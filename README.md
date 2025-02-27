@@ -17,8 +17,11 @@ This project is an AI-powered chatbot that uses Natural Language Processing (NLP
 
 # Future Enhancements
 🔹 Integrate with Speech-to-Text (STT) and Text-to-Speech (TTS)
+
 🔹 Deploy as a Web App using Flask or Streamlit
+
 🔹 Train with Deep Learning (RNN/LSTM) for better accuracy
+
 🔹 Add real-time API integration (e.g., Weather API, News API)
 
 @copyright_Shriraj.Erwadkar🚀
